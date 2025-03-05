@@ -98,6 +98,6 @@ The dataset used in this project is netflix_titles.csv. It contains:
 
 📧 Contact
 
-For any inquiries or contributions, feel free to reach out at your-akshatg989@gmail.com.
+For any inquiries or contributions, feel free to reach out at akshatg989@gmail.com.
 
 Give this project a ⭐ if you like it!
